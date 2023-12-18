@@ -9,7 +9,7 @@ function SocialButton(props) {
     <div className='container-buttons'>
       <div>
         <a href="https://www.facebook.com/" target="_blank" rel="noopener noreferrer" className="btn btn-social">
-          <FontAwesomeIcon icon={facebookIcon} size="2x" /> {/* Tamaño 2x */}
+          <FontAwesomeIcon icon={facebookIcon} size="2x" /> 
         </a>
 
         <a href="https://github.com/" target="_blank" rel="noopener noreferrer" className="btn btn-social">
